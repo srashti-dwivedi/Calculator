@@ -1,8 +1,16 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(224, 190, 209);
+}
+
 .parents{
     display: grid;
      /* grid-template-columns: 70px 70px 70px 70px;  */
     grid-template-rows: 100px 500px;
-    width: 286px;
+    width: 284px;
 
 }
 button{
